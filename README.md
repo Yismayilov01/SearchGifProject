@@ -1,2 +1,2 @@
 # SearchGifProject
-Search for gifs created by me
+Search for GIFs created by me
